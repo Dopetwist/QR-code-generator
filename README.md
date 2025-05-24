@@ -6,4 +6,7 @@ A URL is inserted in the text file and the app automatically creates a Barcode f
 
 This generated QR code can be downloaded as image file to use easily.
 
+
+## Future Plans
+
 More refinements will be done subsequently.
