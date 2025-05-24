@@ -4,4 +4,6 @@ This simple project generates a scannable QR Code image for a given specific URL
 
 A URL is inserted in the text file and the app automatically creates a Barcode for that URL.
 
+This generated QR code can be downloaded as image file to use easily.
+
 More refinements will be done subsequently.
