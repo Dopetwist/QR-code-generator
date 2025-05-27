@@ -1,6 +1,10 @@
+// import express from "express";
 import inquirer from "inquirer";
 import qr from "qr-image";
 import fs from "fs";
+
+// const app = express();
+// const port = 3000;
 
 
 inquirer
@@ -29,4 +33,9 @@ inquirer
       // Something else went wrong
     }
   });
+
+
+// app.listen(port, () => {
+//   console.log(`Server running on port ${port}.`);
+// });
 
