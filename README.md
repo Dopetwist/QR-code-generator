@@ -9,4 +9,4 @@ This generated QR code can be downloaded as image file to use easily.
 
 ## Future Plans
 
-More refinements will be done subsequently.
+Build the User Interface with an Input field to enable users type in a URL to generate it's Barcode.
