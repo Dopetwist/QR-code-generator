@@ -9,7 +9,7 @@ JavaScript
 
 ## How it works:
 
-A URL is inserted in the text file and the app automatically creates a Barcode for that URL.
+A URL is inserted in the text file and the app automatically creates a Barcode for that URL after the terminal commands.
 
 This generated QR code can be downloaded as image file to use easily.
 
